@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: ChrisGalliano/cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -10,9 +10,6 @@ name: Christian Galliano
 title: Senior PHP Developer
 email: christian@galliano.info
 website: galliano.info
-location: Thailand
-nationality: Ukranian
-age: 29
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -54,6 +51,10 @@ about_content: | # this will include new lines to allow paragraphs
   Hi there! My name is Christian, and I am a senior PHP developer with 8+ years of experience in the field. I work on a high-loaded international classified portal and have a knack for technologies like <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Elasticsearch</mark>, <mark>Redis</mark>, and <mark>IntelliJ Platform</mark>. When I'm not coding, I like to give new productivity techniques a crack, travel to new spots, and enjoy hobbies like cooking, photography, and strumming the ol' ukulele.
   
   I'm always keen to give new things a go and have a bit of fun, so if you want to chat about software development or just want to hear some woeful ukulele covers, don't be shy - give me a shout!
+
+  Nationality: Ukranian
+  Current location: Thailand
+  Age: 29
 
 content:
   - title: Skills # Title for the section
