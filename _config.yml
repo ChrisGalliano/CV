@@ -51,33 +51,29 @@ about_content: | # this will include new lines to allow paragraphs
   Hi there! My name is Christian, and I am a senior PHP developer with 8+ years of experience in the field. I work on a high-loaded international classified portal and have a knack for technologies like <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Elasticsearch</mark>, <mark>Redis</mark>, and <mark>IntelliJ Platform</mark>. When I'm not coding, I like to give new productivity techniques a crack, travel to new spots, and enjoy hobbies like cooking, photography, and strumming the ol' ukulele.
   
   I'm always keen to give new things a go and have a bit of fun, so if you want to chat about software development or just want to hear some woeful ukulele covers, don't be shy - give me a shout!
+  
+  Key Skills:
+  - PHP
+  - MySQL
+  - Elasticsearch
+  - Redis
+  - Memcached
+  - IntelliJ Platform (Java & Kotlin)
+  - Git
+  - AWS: SES, SQS, SNS
 
 content:
-  - title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
-          - PHP
-          - MySQL
-          - Elasticsearch
-          - Redis
-          - Memcached
-          - IntelliJ Platform (Java & Kotlin)
-          - Git
-          - AWS: SES, SQS, SNS
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Linemedia - online marketing and sales
-        link: boringcompany.com
+        link: linemedia.com
         # link_text: boringcompany.com
         sub_title: Tech Lead / Senior PHP Developer
         caption: March 2016 - Present
         quote: >
-          The main company product is a high-loaded international classified portal with complex server infrastructure, self-written CRM, and internal and external APIs.
+          The main company product is a high-loaded international classified portal with complex server infrastructure, self-written CRM, internal and external APIs.
         description: | # this will include new lines to allow paragraphs
           - Collaborating with cross-functional teams to implement the entire software development lifecycle, including requirements gathering, design, implementation, testing, deployment, and maintenance of software solutions
           - Improving the technical state of the project by introducing code quality tools, implementing new code inspections, and overseeing the refactoring of outdated project modules
