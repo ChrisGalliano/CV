@@ -54,18 +54,39 @@ about_content: | # this will include new lines to allow paragraphs
   Hi there! My name is Christian, and I am a senior PHP developer with 8+ years of experience in the field. I work on a high-loaded international classified portal and have a knack for technologies like <mark>PHP</mark>, <mark>MySQL</mark>, <mark>Elasticsearch</mark>, <mark>Redis</mark>, and <mark>IntelliJ Platform</mark>. When I'm not coding, I like to give new productivity techniques a crack, travel to new spots, and enjoy hobbies like cooking, photography, and strumming the ol' ukulele.
   
   I'm always keen to give new things a go and have a bit of fun, so if you want to chat about software development or just want to hear some woeful ukulele covers, don't be shy - give me a shout!
-  
-  Key Skills:
-  - PHP
-  - MySQL
-  - Elasticsearch
-  - Redis
-  - Memcached
-  - IntelliJ Platform (Java & Kotlin)
-  - Git
-  - AWS: SES, SQS, SNS
 
 content:
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Backend
+        description: | # this will include new lines to allow paragraphs
+          - PHP
+          - MySQL
+          - Elasticsearch
+          - Redis
+          - Memcached
+          - XDebug
+          - Git
+      - layout: left
+        title: Complimentary
+        description: | # this will include new lines to allow paragraphs
+          - IntelliJ Platform (Java & Kotlin)
+          - AWS: SES, SQS, SNS
+      - layout: left
+        title: Frontend
+        description: | # this will include new lines to allow paragraphs
+          - TypeScript
+          - Gulp, Webpack
+          - SCSS
+      - layout: left
+        title: Languages
+        description: | # this will include new lines to allow paragraphs
+          - Ukrainian (native)
+          - Russian (fluent)
+          - English (upper-intermediate, professional working)
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
