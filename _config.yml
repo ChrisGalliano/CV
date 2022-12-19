@@ -110,6 +110,15 @@ content:
           - Working with AWS services such as SES, SQS, and SNS
           - Lecturing on various topics related to PHP development, including Generics, code structures, and the PhpStorm IDE
           - Developing a plugin for the PhpStorm IDE that provides various features for the internal project framework, including code inspections, completions, type hinting, and line markers
+      - layout: left
+        title: Freelance PHP Developer
+        caption: September 2014 - March 2016
+        quote: >
+          As a freelance PHP developer at the start of my career, I didn't have much experience, but I was eager to learn and improve my skills.
+        description: | # this will include new lines to allow paragraphs
+          - Developing and maintaining web applications using PHP
+          - Communicating with clients and stakeholders throughout the development process to keep them informed of progress and address any concerns
+          - Managing my own schedule and workload as a freelancer, including setting deadlines and meeting project goals
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
