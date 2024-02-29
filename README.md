@@ -26,13 +26,13 @@ The main company product is a high-loaded international classified portal with c
 **Position: Team Lead / Senior PHP Developer**
 
 **Job duties:**
-- Collaborating with cross-functional teams to implement the entire software development lifecycle, including requirements gathering
-- Leading and mentoring junior devs, conduct code reviews
-- Continues working to improve the overall quality of the codebase & solve tech-debt
-- Integrating with third-party services and APIs
-- Working with AWS services such as SES, SQS, SNS and API Gateway
-- Lecturing on various topics related to PHP development
-- Developing a plugin for the PhpStorm IDE that provides various features for the internal project framework, including code inspections, completions, type hinting, and line markers
+- Collaborating with cross-functional teams to implement the entire software development lifecycle, including requirements gathering.
+- Leading and mentoring junior developers, and conducting code reviews.
+- Continuously working to improve the overall quality of the codebase and solve technical debt.
+- Integrating with third-party services and APIs.
+- Working with AWS services such as SES, SQS, SNS, and API Gateway.
+- Lecturing on various topics related to PHP development.
+- Developing a plugin for the PhpStorm IDE that provides various features for the internal project framework, including code inspections, completions, type hinting, and line markers.
 
 
 ### Freelance PHP Developer
